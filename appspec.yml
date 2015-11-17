@@ -24,7 +24,7 @@ os: linux
 #   may cause associated deployments to fail.
 files:
   - source: /
-    destination: /var/www/html/demo
+    destination: /usr/local/src/mc_git
 #  - source:
 #    destination:
 # For deployments to Amazon Linux, Ubuntu Server, or RHEL instances,

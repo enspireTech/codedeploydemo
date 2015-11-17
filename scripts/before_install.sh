@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo rm -rf /var/www/html/demo
+sudo rm -rf /usr/local/src/mc_git
